@@ -38,13 +38,14 @@ The columns of the dataset are listed below. More information about each column 
 ## Exploratory Data Analysis
 Below are some selected highlights from the exploratory data analysis
 
-Price by Airline  
-
-Price by days left
-
-Price by number of stops
+![Price by Airline](Images/price_by_airline.png "Price by Airline")  
 
 
+![Price by Days Left](Images/price_by_days_left.png "Price by Days Left")  
+
+![Price by Number of Stops](Images/price_by_number_of_stops.png "Price by Number of Stops")  
+
+  
 ## Data Cleaning and preprocessing
 * Droped unnamed column
 * Preprocesed data frame by turning all columns into numerical values
@@ -54,3 +55,7 @@ Price by number of stops
 * Evaluated the model
 * Compared model predictions to actual flight prices (See image below)
 * Identifed the featuers with the highest affect on ticket price (See image below)
+
+![Price predictions compared to actual prices](Images/predictions_actual.png "Price predictions compared to actual prices")
+
+![Features affect on ticket price](Images/most_important_features.png "Features affect on ticket price")    
