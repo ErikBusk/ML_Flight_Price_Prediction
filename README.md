@@ -21,7 +21,7 @@ The main conclusions are:
 
 
 ## Data
-The analysis has been conducted using the data set FLight Price Prediction. It is available on Kaggle at this link: [[Flight Price Prediction](https://www.kaggle.com/datasets/jainaru/world-happiness-report-2024-yearly-updated)](https://www.kaggle.com/datasets/shubhambathwal/flight-price-prediction)
+The analysis has been conducted using the data set FLight Price Prediction. It is available on Kaggle at this link: [Flight Price Prediction](https://www.kaggle.com/datasets/jainaru/world-happiness-report-2024-yearly-updated)
 
 The columns of the dataset are listed below. More information about each column are available on the link above: 
 * Airline Company
