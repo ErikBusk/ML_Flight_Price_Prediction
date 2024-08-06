@@ -8,13 +8,13 @@ The project covered the following:
 * Evaluation of which features affect the price most
 
 The main conclusions are:
-* The created Random Forest ML-model have an r2-score of 0.985
-* The features with the most affect on the ticket price are:
-  1. If the flight is in economy or business-class
-  2. The duration of the flight
-  3. Number of days left until the flight leaves
-     
+- The Random Forest machine learning model achieved an R² score of 0.985, indicating a strong predictive performance.
+- The most influential features affecting ticket prices are:
+  1. Class of the flight (economy or business)
+  2. Duration of the flight
+  3. Number of days remaining until departure
 
+     
 ## Code and resources used
 **Python Version:** 3.11.5  
 **Packages:** Numpy, Pandas, Seaborn, Matplotlib, Math, Scikit-learn
