@@ -8,16 +8,12 @@ The project covered the following:
 * Evaluation of which features affect the price most
 
 The main conclusions are:
-* The created Random Forest ML-model performance is:
-  * R^2 Score: 0.9847669829089232
-  * Mean Absolute Error: 1083.762831900145
-  * Mean Squared Error: 7878877.779865253
-  * Root Mean Squared Error: 2806.9338752213694
+* The created Random Forest ML-model have an r2-score of 0.985
 * The features with the most affect on the ticket price are:
   1. Class (Economy or Business)
   2. Duration of the flight
   3. Days left until the flight leaves
-
+     
 
 ## Code and resources used
 **Python Version:** 3.11.5  
@@ -25,7 +21,7 @@ The main conclusions are:
 
 
 ## Data
-The analysis has been conducted using the data set FLight Price Prediction. It is available on Kaggle at this link: [[https://www.kaggle.com/datasets/jainaru/world-happiness-report-2024-yearly-updated]([https://www.kaggle.com/datasets/shubhambathwal/flight-price-prediction]
+The analysis has been conducted using the data set FLight Price Prediction. It is available on Kaggle at this link: [[https://www.kaggle.com/datasets/jainaru/world-happiness-report-2024-yearly-updated]([https://www.kaggle.com/datasets/shubhambathwal/flight-price-prediction])
 The columns of the dataset are listed below. More information about each column are available on the link above: 
 * Airline Company
 * Flight Code
