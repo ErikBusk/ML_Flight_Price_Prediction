@@ -1,4 +1,4 @@
-# ML-model for flight price prediction
+# ML-model for flight price prediction: Project overview
 
 ## Summary
 This project examines Flight Price Prediction data set to understand what affects the fligth prices and create a ML-model for predicting the price of a flight.
